@@ -1,0 +1,9 @@
+object : object is the instance of the class which is used by th user to access the methods of the class
+mehod : method is nothing but the function inside the class. remember when a function is present inside the class it is called method
+class : class is the collection of constructor and methods which is used to perform the specific task 
+constructor : constructor is the built-in fuction which is has the suprer power that these are exicuted without even calling it.
+self : self is nothing but the object of the class."gangadhar hi shaktiman hai". which is bassically used to call the method insied the method in a class
+
+
+Q 1 : why we use constructor ?
+A 1 : constructor are used in the situations where as a owener we don't want to give the access of something to the other(user)
