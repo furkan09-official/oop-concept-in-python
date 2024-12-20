@@ -1,0 +1,5 @@
+
+" the object of the user defined class are mutable. just like list sets and dictionaries"
+
+** statick variable class ka variable hota hai 
+** instance variable object ka variable hota hai
