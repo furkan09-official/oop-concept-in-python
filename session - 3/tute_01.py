@@ -4,6 +4,8 @@
 # example : class customer: has the class address:
 # you can not access the private attributes while performing aggrigation
 
+# <>(rombus) --> aggregation
+
 class customer:
     def __init__(self , name , gender , addres):
         self.name = name
